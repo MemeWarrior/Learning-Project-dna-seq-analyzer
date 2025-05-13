@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MemeWarrior/Learning-Project-dna-seq-analyzer/main?urlpath=%2Fdoc%2Ftree%2FPresentation.ipynb)
+
 PROJECT NOTES:
 
 5/5/2025
