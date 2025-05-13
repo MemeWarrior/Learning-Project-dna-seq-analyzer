@@ -1,6 +1,8 @@
 from typing import List, Tuple, Union
 from Bio.Seq import Seq
 
+# === Functions ===
+
 SeqType = Union[str, Seq] #A custom type which for readability encapsulates the str and Seq types
 
 def base_counts(seq: SeqType) -> dict[str, int]:
